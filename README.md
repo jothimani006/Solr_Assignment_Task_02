@@ -1,0 +1,1 @@
+# Solr_Assignment_Task_02
